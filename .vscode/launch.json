@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "modul2",
+            "cwd": "praktikum\\modul-02-pengenalan-flutter\\modul2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modul2 (profile mode)",
+            "cwd": "praktikum\\modul-02-pengenalan-flutter\\modul2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modul2 (release mode)",
+            "cwd": "praktikum\\modul-02-pengenalan-flutter\\modul2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "list_view",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Jurnal\\list_view",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "list_view (profile mode)",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Jurnal\\list_view",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "list_view (release mode)",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Jurnal\\list_view",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "welcome",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Pendahuluan\\welcome",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "welcome (profile mode)",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Pendahuluan\\welcome",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "welcome (release mode)",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Pendahuluan\\welcome",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "guided",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Praktikum\\guided",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "guided (profile mode)",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Praktikum\\guided",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "guided (release mode)",
+            "cwd": "praktikum\\modul-04-antarmuka-pengguna\\Praktikum\\guided",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "grid_view",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\Guided\\grid_view",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "grid_view (profile mode)",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\Guided\\grid_view",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "grid_view (release mode)",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\Guided\\grid_view",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "page",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\TP\\page",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "page (profile mode)",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\TP\\page",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "page (release mode)",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\TP\\page",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "stack_jurnal",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\Unguided\\stack_jurnal",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "stack_jurnal (profile mode)",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\Unguided\\stack_jurnal",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "stack_jurnal (release mode)",
+            "cwd": "praktikum\\modul-05-antarmuka-pengguna-lanjutan\\Unguided\\stack_jurnal",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "listview_tp",
+            "cwd": "praktikum\\modul-06-interaksi-pengguna\\TP\\listview_tp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "listview_tp (profile mode)",
+            "cwd": "praktikum\\modul-06-interaksi-pengguna\\TP\\listview_tp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "listview_tp (release mode)",
+            "cwd": "praktikum\\modul-06-interaksi-pengguna\\TP\\listview_tp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
